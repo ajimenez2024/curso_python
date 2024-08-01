@@ -3,3 +3,5 @@
 # Imprime en una misma línea dos textos y dos números. 
 
 # inserta tu codigo justo debajo
+
+print("hola", "mundo", 24, 72)

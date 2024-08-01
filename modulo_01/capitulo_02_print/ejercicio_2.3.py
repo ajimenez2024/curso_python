@@ -13,3 +13,16 @@
  * * * * * * * *
 """
 
+
+print("* * * * * * * *")
+print(" * * * * * * * *")
+print("* * * * * * * *")
+print(" * * * * * * * *")
+print("* * * * * * * *")
+print(" * * * * * * * *")
+print("* * * * * * * *")
+print(" * * * * * * * *")
+print("\n")
+
+#profe, ¿por qué en este código de abajo los asteriscos desde la segunda línea me salen corridos un espacio?
+print("* * * * * * * *","\n"," * * * * * * * *","\n","* * * * * * * *","\n"," * * * * * * * *","\n","* * * * * * * *","\n"," * * * * * * * *","\n","* * * * * * * *","\n"," * * * * * * * *")
